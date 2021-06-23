@@ -1,0 +1,28 @@
+.heading{
+    background-color:rgb(255, 57, 57);
+    box-shadow: 1px 5px 5px grey;
+    font-size: 23px;
+    width: 100%;
+}
+.heading_div{
+    border-radius: 15px;
+    color:black;
+    font-size:33px;
+    background-color:white;
+    box-shadow: 1px 5px 5px grey;
+}
+.heading_div2{
+    font-size: 23px;
+}
+.span-tags{
+    font-size:23px;
+}
+canvas{
+    border-color:black;
+    border-radius:15px;
+    box-shadow: 18px 5px 5px black;
+}
+.buttons{
+    background-color:rgb(255, 57, 57);
+    color:black
+}
